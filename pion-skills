@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="s"/>
+    <variable name="p"/>
+    <variable name="o"/>
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/4026</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18060</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/1030</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18071</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/1011</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18070</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/3020</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18066</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/4002</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/4022</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18058</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/3023</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/1003</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/3012</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18064</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18062</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18068</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18063</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18061</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/1033</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18067</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/4008</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/3002</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18069</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18065</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ec2-174-129-201-93.compute-1.amazonaws.com/source/cisco-com/dataset/wcl/skill/T18059</uri>
+      </binding>
+    </result>
+  </results>
+</sparql>
